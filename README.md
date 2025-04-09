@@ -21,7 +21,7 @@ Pick a domain name sufix at the prompt that you control which you can use to all
 
 `./get_ips.py`
 
-Assign the proided ips to the different sudomains using DNS. Wiat for records to propagate before continuing to next step.
+Assign the provided ips to the different sudomains using DNS. Wiat for records to propagate before continuing to next step.
 
 
 # Install
