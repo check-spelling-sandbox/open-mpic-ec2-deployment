@@ -21,7 +21,7 @@ Pick a domain name suffix at the prompt that you control which you can use to al
 
 `./get_ips.py`
 
-Assign the provided ips to the different subdomains using DNS. Wiat for records to propagate before continuing to next step.
+Assign the provided ips to the different subdomains using DNS. Wait for records to propagate before continuing to next step.
 
 
 # Install
